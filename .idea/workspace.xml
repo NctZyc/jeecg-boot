@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f976dcca-abe6-42cf-96be-d9387eeeb342" name="Changes" comment="主干">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-boot-base-core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-boot-base-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-boot-base-core/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-boot-base-core/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/jeecg-system-cloud-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/jeecg-system-cloud-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/jeecg-system-cloud-api/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/jeecg-system-cloud-api/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/jeecg-system-local-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/jeecg-system-local-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/jeecg-system-local-api/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/jeecg-system-local-api/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-api/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-biz/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-biz/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-biz/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-start/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-start/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/jeecg-system-start/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-module-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-cloud-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-cloud-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-cloud-gateway/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-cloud-gateway/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-cloud-nacos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-cloud-nacos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-cloud-nacos/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-cloud-nacos/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-demo-cloud-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-demo-cloud-start/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-demo-cloud-start/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-demo-cloud-start/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-system-cloud-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-system-cloud-start/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-system-cloud-start/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-system-cloud-start/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-monitor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-monitor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-monitor/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-monitor/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-sentinel/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-sentinel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-sentinel/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-sentinel/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-xxljob/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-xxljob/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-xxljob/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/jeecg-cloud-xxljob/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/jeecg-visual/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeecg-server-cloud/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2L5Ivr1gWzfWliUBXQP4bdmd44l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f976dcca-abe6-42cf-96be-d9387eeeb342" name="Changes" comment="" />
+      <created>1675154751670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675154751670</updated>
+      <workItem from="1675154754013" duration="2765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="主干" />
+    <option name="LAST_COMMIT_MESSAGE" value="主干" />
+  </component>
+</project>
