@@ -2,6 +2,8 @@
 name: autoDeploy
 #触发条件
 on:
+    push:   
+        branches: [ master ]
     pull_request:
         branches: [master]
 jobs:
